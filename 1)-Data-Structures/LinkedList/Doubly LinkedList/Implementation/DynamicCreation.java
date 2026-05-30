@@ -1,4 +1,4 @@
-// Operations on Doubly LinkedList
+// Operations on Doubly LinkedList by Menu Driven System
 import java.util.Scanner;
 class Node
 {
